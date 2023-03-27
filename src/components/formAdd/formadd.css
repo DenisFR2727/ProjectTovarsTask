@@ -1,0 +1,13 @@
+.list_new_tovar{ 
+    margin-top: 10px;
+    list-style: none;
+    border: 2px solid black;
+}
+.list_new_tovar div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.form-add{
+    margin-top: -20px;
+}

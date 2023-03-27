@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    margin: 0 auto;
+    width: 1024px;
+    height: 50px;
+    background-color: aquamarine;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    width: inherit;
+}
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+.header ul{
+    width: 100%;
+    display: flex;
+}
+
